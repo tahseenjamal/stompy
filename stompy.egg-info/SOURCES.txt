@@ -1,0 +1,12 @@
+README
+setup.cfg
+setup.py
+stompy/__init__.py
+stompy/distmeta.py
+stompy/frame.py
+stompy/simple.py
+stompy/stomp.py
+stompy.egg-info/PKG-INFO
+stompy.egg-info/SOURCES.txt
+stompy.egg-info/dependency_links.txt
+stompy.egg-info/top_level.txt

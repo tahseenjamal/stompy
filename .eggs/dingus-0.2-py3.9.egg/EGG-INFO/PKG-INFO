@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: dingus
+Version: 0.2
+Summary: A record-then-assert mocking library
+Home-page: http://bitbucket.org/garybernhardt/dingus
+Author: Gary Bernhardt
+Author-email: gary.bernhardt@gmail.com
+License: MIT
+Keywords: testing test mocking mock double stub fake record assert
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Testing
+
+UNKNOWN
+
